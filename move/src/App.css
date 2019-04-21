@@ -1,0 +1,10 @@
+body{
+    padding: 0px;
+    margin: 0;
+}
+main{
+    margin: 30px
+}
+.clickable{
+    cursor: pointer;
+}
